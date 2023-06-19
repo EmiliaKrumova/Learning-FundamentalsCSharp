@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.genruntimeconfig.cache
