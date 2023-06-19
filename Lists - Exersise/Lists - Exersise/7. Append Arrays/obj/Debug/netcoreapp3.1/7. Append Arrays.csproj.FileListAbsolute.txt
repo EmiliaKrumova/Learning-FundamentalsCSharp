@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.genruntimeconfig.cache

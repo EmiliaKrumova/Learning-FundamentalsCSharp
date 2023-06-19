@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\netcoreapp3.1\2. Pascal Triangle.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\netcoreapp3.1\2. Pascal Triangle.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\netcoreapp3.1\2. Pascal Triangle.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\netcoreapp3.1\2. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\netcoreapp3.1\2. Pascal Triangle.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\netcoreapp3.1\2. Pascal Triangle.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\netcoreapp3.1\2. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\netcoreapp3.1\2. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\netcoreapp3.1\2. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\netcoreapp3.1\2. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\netcoreapp3.1\2. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\netcoreapp3.1\2. Pascal Triangle.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\netcoreapp3.1\2. Pascal Triangle.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\netcoreapp3.1\2. Pascal Triangle.genruntimeconfig.cache

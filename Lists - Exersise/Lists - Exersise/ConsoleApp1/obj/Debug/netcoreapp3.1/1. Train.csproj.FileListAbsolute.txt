@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\bin\Debug\netcoreapp3.1\1. Train.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\bin\Debug\netcoreapp3.1\1. Train.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\bin\Debug\netcoreapp3.1\1. Train.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\bin\Debug\netcoreapp3.1\1. Train.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\bin\Debug\netcoreapp3.1\1. Train.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\bin\Debug\netcoreapp3.1\1. Train.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\obj\Debug\netcoreapp3.1\1. Train.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\obj\Debug\netcoreapp3.1\1. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\obj\Debug\netcoreapp3.1\1. Train.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\obj\Debug\netcoreapp3.1\1. Train.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\obj\Debug\netcoreapp3.1\1. Train.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\obj\Debug\netcoreapp3.1\1. Train.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\obj\Debug\netcoreapp3.1\1. Train.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\ConsoleApp1\obj\Debug\netcoreapp3.1\1. Train.genruntimeconfig.cache

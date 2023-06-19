@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\bin\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\bin\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\bin\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\bin\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\bin\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\bin\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\obj\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\obj\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\obj\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\obj\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\obj\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\obj\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\obj\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Hearth Delivery\obj\Debug\netcoreapp3.1\Problem 3 – Hearth Delivery.genruntimeconfig.cache

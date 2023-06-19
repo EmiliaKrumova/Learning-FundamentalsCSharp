@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\bin\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\bin\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\bin\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\bin\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\bin\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\bin\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\obj\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\obj\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\obj\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\obj\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\obj\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\obj\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\obj\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab1DayOfWeek\obj\Debug\netcoreapp3.1\Arrays-Lab1DayOfWeek.genruntimeconfig.cache

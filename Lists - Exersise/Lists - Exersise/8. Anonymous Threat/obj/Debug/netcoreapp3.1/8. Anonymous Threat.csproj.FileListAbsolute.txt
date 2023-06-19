@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\8. Anonymous Threat.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\8. Anonymous Threat.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\8. Anonymous Threat.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\8. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\8. Anonymous Threat.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\8. Anonymous Threat.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\8. Anonymous Threat.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\8. Anonymous Threat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\8. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\8. Anonymous Threat.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\8. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\8. Anonymous Threat.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\8. Anonymous Threat.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\8. Anonymous Threat.genruntimeconfig.cache

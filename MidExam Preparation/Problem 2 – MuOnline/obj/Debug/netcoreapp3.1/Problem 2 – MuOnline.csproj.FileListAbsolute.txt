@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\bin\Debug\netcoreapp3.1\Problem 2 – MuOnline.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\bin\Debug\netcoreapp3.1\Problem 2 – MuOnline.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\bin\Debug\netcoreapp3.1\Problem 2 – MuOnline.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\bin\Debug\netcoreapp3.1\Problem 2 – MuOnline.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\bin\Debug\netcoreapp3.1\Problem 2 – MuOnline.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\bin\Debug\netcoreapp3.1\Problem 2 – MuOnline.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\obj\Debug\netcoreapp3.1\Problem 2 – MuOnline.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\obj\Debug\netcoreapp3.1\Problem 2 – MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\obj\Debug\netcoreapp3.1\Problem 2 – MuOnline.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\obj\Debug\netcoreapp3.1\Problem 2 – MuOnline.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\obj\Debug\netcoreapp3.1\Problem 2 – MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\obj\Debug\netcoreapp3.1\Problem 2 – MuOnline.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\obj\Debug\netcoreapp3.1\Problem 2 – MuOnline.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – MuOnline\obj\Debug\netcoreapp3.1\Problem 2 – MuOnline.genruntimeconfig.cache

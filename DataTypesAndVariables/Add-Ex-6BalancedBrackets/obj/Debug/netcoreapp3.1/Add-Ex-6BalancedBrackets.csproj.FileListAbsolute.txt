@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\bin\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\bin\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\bin\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\bin\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\bin\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\bin\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\obj\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\obj\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\obj\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\obj\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\obj\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\obj\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\obj\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-6BalancedBrackets\obj\Debug\netcoreapp3.1\Add-Ex-6BalancedBrackets.genruntimeconfig.cache

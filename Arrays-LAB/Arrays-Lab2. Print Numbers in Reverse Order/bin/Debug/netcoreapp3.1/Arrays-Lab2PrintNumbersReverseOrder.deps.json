@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Arrays-Lab2PrintNumbersReverseOrder/1.0.0": {
+        "runtime": {
+          "Arrays-Lab2PrintNumbersReverseOrder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays-Lab2PrintNumbersReverseOrder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

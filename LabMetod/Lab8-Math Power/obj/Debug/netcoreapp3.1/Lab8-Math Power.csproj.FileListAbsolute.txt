@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\bin\Debug\netcoreapp3.1\Lab8-Math Power.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\bin\Debug\netcoreapp3.1\Lab8-Math Power.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\bin\Debug\netcoreapp3.1\Lab8-Math Power.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\bin\Debug\netcoreapp3.1\Lab8-Math Power.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\bin\Debug\netcoreapp3.1\Lab8-Math Power.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\bin\Debug\netcoreapp3.1\Lab8-Math Power.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\obj\Debug\netcoreapp3.1\Lab8-Math Power.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\obj\Debug\netcoreapp3.1\Lab8-Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\obj\Debug\netcoreapp3.1\Lab8-Math Power.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\obj\Debug\netcoreapp3.1\Lab8-Math Power.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\obj\Debug\netcoreapp3.1\Lab8-Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\obj\Debug\netcoreapp3.1\Lab8-Math Power.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\obj\Debug\netcoreapp3.1\Lab8-Math Power.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab8-Math Power\obj\Debug\netcoreapp3.1\Lab8-Math Power.genruntimeconfig.cache

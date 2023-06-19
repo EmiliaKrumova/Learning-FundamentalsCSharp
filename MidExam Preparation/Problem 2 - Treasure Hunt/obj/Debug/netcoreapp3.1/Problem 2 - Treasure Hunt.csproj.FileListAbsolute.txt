@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\bin\Debug\netcoreapp3.1\2FromLeft-to-theRight.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\bin\Debug\netcoreapp3.1\2FromLeft-to-theRight.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\bin\Debug\netcoreapp3.1\2FromLeft-to-theRight.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\bin\Debug\netcoreapp3.1\2FromLeft-to-theRight.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\bin\Debug\netcoreapp3.1\2FromLeft-to-theRight.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\bin\Debug\netcoreapp3.1\2FromLeft-to-theRight.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\obj\Debug\netcoreapp3.1\2FromLeft-to-theRight.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\obj\Debug\netcoreapp3.1\2FromLeft-to-theRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\obj\Debug\netcoreapp3.1\2FromLeft-to-theRight.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\obj\Debug\netcoreapp3.1\2FromLeft-to-theRight.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\obj\Debug\netcoreapp3.1\2FromLeft-to-theRight.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\obj\Debug\netcoreapp3.1\2FromLeft-to-theRight.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\obj\Debug\netcoreapp3.1\2FromLeft-to-theRight.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\2FromLeft-to-theRight\obj\Debug\netcoreapp3.1\2FromLeft-to-theRight.genruntimeconfig.cache

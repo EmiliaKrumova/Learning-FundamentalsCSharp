@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\bin\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\bin\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\bin\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\bin\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\bin\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\bin\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\obj\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\obj\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\obj\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\obj\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\obj\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\obj\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\obj\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shoot for the Win\obj\Debug\netcoreapp3.1\Problem 2 - Shoot for the Win.genruntimeconfig.cache

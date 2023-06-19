@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\bin\Debug\netcoreapp3.1\Problem 3 – Inventory.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\bin\Debug\netcoreapp3.1\Problem 3 – Inventory.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\bin\Debug\netcoreapp3.1\Problem 3 – Inventory.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\bin\Debug\netcoreapp3.1\Problem 3 – Inventory.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\bin\Debug\netcoreapp3.1\Problem 3 – Inventory.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\bin\Debug\netcoreapp3.1\Problem 3 – Inventory.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\obj\Debug\netcoreapp3.1\Problem 3 – Inventory.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\obj\Debug\netcoreapp3.1\Problem 3 – Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\obj\Debug\netcoreapp3.1\Problem 3 – Inventory.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\obj\Debug\netcoreapp3.1\Problem 3 – Inventory.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\obj\Debug\netcoreapp3.1\Problem 3 – Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\obj\Debug\netcoreapp3.1\Problem 3 – Inventory.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\obj\Debug\netcoreapp3.1\Problem 3 – Inventory.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 – Inventory\obj\Debug\netcoreapp3.1\Problem 3 – Inventory.genruntimeconfig.cache

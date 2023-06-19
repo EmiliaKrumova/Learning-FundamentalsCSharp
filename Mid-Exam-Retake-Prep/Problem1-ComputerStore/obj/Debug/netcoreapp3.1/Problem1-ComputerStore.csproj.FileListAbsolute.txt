@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\bin\Debug\netcoreapp3.1\Problem1-ComputerStore.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\bin\Debug\netcoreapp3.1\Problem1-ComputerStore.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\bin\Debug\netcoreapp3.1\Problem1-ComputerStore.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\bin\Debug\netcoreapp3.1\Problem1-ComputerStore.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\bin\Debug\netcoreapp3.1\Problem1-ComputerStore.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\bin\Debug\netcoreapp3.1\Problem1-ComputerStore.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\obj\Debug\netcoreapp3.1\Problem1-ComputerStore.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\obj\Debug\netcoreapp3.1\Problem1-ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\obj\Debug\netcoreapp3.1\Problem1-ComputerStore.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\obj\Debug\netcoreapp3.1\Problem1-ComputerStore.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\obj\Debug\netcoreapp3.1\Problem1-ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\obj\Debug\netcoreapp3.1\Problem1-ComputerStore.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\obj\Debug\netcoreapp3.1\Problem1-ComputerStore.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Mid-Exam-Retake-Prep\Problem1-ComputerStore\obj\Debug\netcoreapp3.1\Problem1-ComputerStore.genruntimeconfig.cache

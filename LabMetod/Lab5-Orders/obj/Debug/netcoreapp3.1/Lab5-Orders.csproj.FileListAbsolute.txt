@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\bin\Debug\netcoreapp3.1\Lab5-Orders.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\bin\Debug\netcoreapp3.1\Lab5-Orders.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\bin\Debug\netcoreapp3.1\Lab5-Orders.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\bin\Debug\netcoreapp3.1\Lab5-Orders.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\bin\Debug\netcoreapp3.1\Lab5-Orders.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\bin\Debug\netcoreapp3.1\Lab5-Orders.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\obj\Debug\netcoreapp3.1\Lab5-Orders.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\obj\Debug\netcoreapp3.1\Lab5-Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\obj\Debug\netcoreapp3.1\Lab5-Orders.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\obj\Debug\netcoreapp3.1\Lab5-Orders.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\obj\Debug\netcoreapp3.1\Lab5-Orders.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\obj\Debug\netcoreapp3.1\Lab5-Orders.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\obj\Debug\netcoreapp3.1\Lab5-Orders.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab5-Orders\obj\Debug\netcoreapp3.1\Lab5-Orders.genruntimeconfig.cache

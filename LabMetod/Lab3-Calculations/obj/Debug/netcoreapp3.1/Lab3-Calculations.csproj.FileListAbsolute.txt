@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\bin\Debug\netcoreapp3.1\Lab3-Calculations.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\bin\Debug\netcoreapp3.1\Lab3-Calculations.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\bin\Debug\netcoreapp3.1\Lab3-Calculations.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\bin\Debug\netcoreapp3.1\Lab3-Calculations.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\bin\Debug\netcoreapp3.1\Lab3-Calculations.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\bin\Debug\netcoreapp3.1\Lab3-Calculations.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\obj\Debug\netcoreapp3.1\Lab3-Calculations.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\obj\Debug\netcoreapp3.1\Lab3-Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\obj\Debug\netcoreapp3.1\Lab3-Calculations.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\obj\Debug\netcoreapp3.1\Lab3-Calculations.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\obj\Debug\netcoreapp3.1\Lab3-Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\obj\Debug\netcoreapp3.1\Lab3-Calculations.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\obj\Debug\netcoreapp3.1\Lab3-Calculations.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\LabMetod\Lab3-Calculations\obj\Debug\netcoreapp3.1\Lab3-Calculations.genruntimeconfig.cache

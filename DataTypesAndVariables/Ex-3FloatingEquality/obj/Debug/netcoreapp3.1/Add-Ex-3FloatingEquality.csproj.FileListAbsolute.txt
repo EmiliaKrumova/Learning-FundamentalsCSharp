@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\bin\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\bin\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\bin\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\bin\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\bin\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\bin\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\obj\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\obj\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\obj\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\obj\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\obj\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\obj\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\obj\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Ex-3FloatingEquality\obj\Debug\netcoreapp3.1\Add-Ex-3FloatingEquality.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\bin\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\bin\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\bin\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\bin\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\bin\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\bin\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\obj\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\obj\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\obj\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\obj\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\obj\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\obj\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\obj\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-LAB\Arrays-Lab3. Rounding Numbers\obj\Debug\netcoreapp3.1\Arrays-Lab3. Rounding Numbers.genruntimeconfig.cache

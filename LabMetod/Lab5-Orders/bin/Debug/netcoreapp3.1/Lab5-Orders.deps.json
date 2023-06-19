@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab5-Orders/1.0.0": {
+        "runtime": {
+          "Lab5-Orders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab5-Orders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

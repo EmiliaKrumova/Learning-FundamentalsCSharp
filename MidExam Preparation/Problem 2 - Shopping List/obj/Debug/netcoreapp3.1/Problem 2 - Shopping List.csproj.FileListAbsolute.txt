@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\bin\Debug\netcoreapp3.1\Problem 2 - Shopping List.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\bin\Debug\netcoreapp3.1\Problem 2 - Shopping List.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\bin\Debug\netcoreapp3.1\Problem 2 - Shopping List.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\bin\Debug\netcoreapp3.1\Problem 2 - Shopping List.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\bin\Debug\netcoreapp3.1\Problem 2 - Shopping List.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\bin\Debug\netcoreapp3.1\Problem 2 - Shopping List.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\obj\Debug\netcoreapp3.1\Problem 2 - Shopping List.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\obj\Debug\netcoreapp3.1\Problem 2 - Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\obj\Debug\netcoreapp3.1\Problem 2 - Shopping List.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\obj\Debug\netcoreapp3.1\Problem 2 - Shopping List.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\obj\Debug\netcoreapp3.1\Problem 2 - Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\obj\Debug\netcoreapp3.1\Problem 2 - Shopping List.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\obj\Debug\netcoreapp3.1\Problem 2 - Shopping List.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 - Shopping List\obj\Debug\netcoreapp3.1\Problem 2 - Shopping List.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\bin\Debug\netcoreapp3.1\3. Characters in Rangе.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\bin\Debug\netcoreapp3.1\3. Characters in Rangе.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\bin\Debug\netcoreapp3.1\3. Characters in Rangе.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\bin\Debug\netcoreapp3.1\3. Characters in Rangе.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\bin\Debug\netcoreapp3.1\3. Characters in Rangе.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\bin\Debug\netcoreapp3.1\3. Characters in Rangе.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\obj\Debug\netcoreapp3.1\3. Characters in Rangе.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\obj\Debug\netcoreapp3.1\3. Characters in Rangе.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\obj\Debug\netcoreapp3.1\3. Characters in Rangе.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\obj\Debug\netcoreapp3.1\3. Characters in Rangе.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\obj\Debug\netcoreapp3.1\3. Characters in Rangе.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\obj\Debug\netcoreapp3.1\3. Characters in Rangе.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\obj\Debug\netcoreapp3.1\3. Characters in Rangе.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\3. Characters in Rangе\obj\Debug\netcoreapp3.1\3. Characters in Rangе.genruntimeconfig.cache

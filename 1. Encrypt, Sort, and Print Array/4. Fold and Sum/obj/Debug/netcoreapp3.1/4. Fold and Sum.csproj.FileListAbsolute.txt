@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\bin\Debug\netcoreapp3.1\4. Fold and Sum.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\bin\Debug\netcoreapp3.1\4. Fold and Sum.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\bin\Debug\netcoreapp3.1\4. Fold and Sum.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\bin\Debug\netcoreapp3.1\4. Fold and Sum.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\bin\Debug\netcoreapp3.1\4. Fold and Sum.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\bin\Debug\netcoreapp3.1\4. Fold and Sum.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\obj\Debug\netcoreapp3.1\4. Fold and Sum.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\obj\Debug\netcoreapp3.1\4. Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\obj\Debug\netcoreapp3.1\4. Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\obj\Debug\netcoreapp3.1\4. Fold and Sum.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\obj\Debug\netcoreapp3.1\4. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\obj\Debug\netcoreapp3.1\4. Fold and Sum.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\obj\Debug\netcoreapp3.1\4. Fold and Sum.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\1. Encrypt, Sort, and Print Array\4. Fold and Sum\obj\Debug\netcoreapp3.1\4. Fold and Sum.genruntimeconfig.cache

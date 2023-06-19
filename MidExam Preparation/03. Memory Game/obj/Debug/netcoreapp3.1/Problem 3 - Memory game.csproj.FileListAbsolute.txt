@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\bin\Debug\netcoreapp3.1\Problem 3 - Memory game.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\bin\Debug\netcoreapp3.1\Problem 3 - Memory game.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\bin\Debug\netcoreapp3.1\Problem 3 - Memory game.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\bin\Debug\netcoreapp3.1\Problem 3 - Memory game.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\bin\Debug\netcoreapp3.1\Problem 3 - Memory game.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\bin\Debug\netcoreapp3.1\Problem 3 - Memory game.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\obj\Debug\netcoreapp3.1\Problem 3 - Memory game.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\obj\Debug\netcoreapp3.1\Problem 3 - Memory game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\obj\Debug\netcoreapp3.1\Problem 3 - Memory game.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\obj\Debug\netcoreapp3.1\Problem 3 - Memory game.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\obj\Debug\netcoreapp3.1\Problem 3 - Memory game.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\obj\Debug\netcoreapp3.1\Problem 3 - Memory game.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\obj\Debug\netcoreapp3.1\Problem 3 - Memory game.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\03. Memory Game\obj\Debug\netcoreapp3.1\Problem 3 - Memory game.genruntimeconfig.cache

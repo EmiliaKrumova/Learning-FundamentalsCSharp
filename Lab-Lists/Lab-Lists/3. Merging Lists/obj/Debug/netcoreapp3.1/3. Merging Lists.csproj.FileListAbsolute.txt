@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\bin\Debug\netcoreapp3.1\3. Merging Lists.exe
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\bin\Debug\netcoreapp3.1\3. Merging Lists.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\bin\Debug\netcoreapp3.1\3. Merging Lists.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\bin\Debug\netcoreapp3.1\3. Merging Lists.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\bin\Debug\netcoreapp3.1\3. Merging Lists.dll
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\bin\Debug\netcoreapp3.1\3. Merging Lists.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\obj\Debug\netcoreapp3.1\3. Merging Lists.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\obj\Debug\netcoreapp3.1\3. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\obj\Debug\netcoreapp3.1\3. Merging Lists.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\obj\Debug\netcoreapp3.1\3. Merging Lists.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\obj\Debug\netcoreapp3.1\3. Merging Lists.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\obj\Debug\netcoreapp3.1\3. Merging Lists.dll
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\obj\Debug\netcoreapp3.1\3. Merging Lists.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\3. Merging Lists\obj\Debug\netcoreapp3.1\3. Merging Lists.genruntimeconfig.cache

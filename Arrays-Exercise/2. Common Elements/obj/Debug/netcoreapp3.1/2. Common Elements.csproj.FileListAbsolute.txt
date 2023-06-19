@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Arrays-Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\bin\Debug\netcoreapp3.1\3. House Party.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\bin\Debug\netcoreapp3.1\3. House Party.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\bin\Debug\netcoreapp3.1\3. House Party.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\bin\Debug\netcoreapp3.1\3. House Party.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\bin\Debug\netcoreapp3.1\3. House Party.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\bin\Debug\netcoreapp3.1\3. House Party.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\obj\Debug\netcoreapp3.1\3. House Party.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\obj\Debug\netcoreapp3.1\3. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\obj\Debug\netcoreapp3.1\3. House Party.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\obj\Debug\netcoreapp3.1\3. House Party.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\obj\Debug\netcoreapp3.1\3. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\obj\Debug\netcoreapp3.1\3. House Party.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\obj\Debug\netcoreapp3.1\3. House Party.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\Lists - Exersise\3. House Party\obj\Debug\netcoreapp3.1\3. House Party.genruntimeconfig.cache

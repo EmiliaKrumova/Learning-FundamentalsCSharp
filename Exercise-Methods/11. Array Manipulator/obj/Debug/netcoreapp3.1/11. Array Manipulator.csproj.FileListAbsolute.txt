@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.genruntimeconfig.cache

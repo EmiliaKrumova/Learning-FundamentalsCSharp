@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\bin\Debug\netcoreapp3.1\Problem 3 - Man-O-War.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\bin\Debug\netcoreapp3.1\Problem 3 - Man-O-War.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\bin\Debug\netcoreapp3.1\Problem 3 - Man-O-War.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\bin\Debug\netcoreapp3.1\Problem 3 - Man-O-War.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\bin\Debug\netcoreapp3.1\Problem 3 - Man-O-War.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\bin\Debug\netcoreapp3.1\Problem 3 - Man-O-War.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\obj\Debug\netcoreapp3.1\Problem 3 - Man-O-War.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\obj\Debug\netcoreapp3.1\Problem 3 - Man-O-War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\obj\Debug\netcoreapp3.1\Problem 3 - Man-O-War.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\obj\Debug\netcoreapp3.1\Problem 3 - Man-O-War.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\obj\Debug\netcoreapp3.1\Problem 3 - Man-O-War.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\obj\Debug\netcoreapp3.1\Problem 3 - Man-O-War.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\obj\Debug\netcoreapp3.1\Problem 3 - Man-O-War.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 3 - Man-O-War\obj\Debug\netcoreapp3.1\Problem 3 - Man-O-War.genruntimeconfig.cache

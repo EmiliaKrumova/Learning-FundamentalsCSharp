@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.genruntimeconfig.cache

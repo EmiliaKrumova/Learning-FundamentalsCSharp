@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\bin\Debug\netcoreapp3.1\2. GaussTrick.exe
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\bin\Debug\netcoreapp3.1\2. GaussTrick.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\bin\Debug\netcoreapp3.1\2. GaussTrick.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\bin\Debug\netcoreapp3.1\2. GaussTrick.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\bin\Debug\netcoreapp3.1\2. GaussTrick.dll
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\bin\Debug\netcoreapp3.1\2. GaussTrick.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\obj\Debug\netcoreapp3.1\2. GaussTrick.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\obj\Debug\netcoreapp3.1\2. GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\obj\Debug\netcoreapp3.1\2. GaussTrick.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\obj\Debug\netcoreapp3.1\2. GaussTrick.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\obj\Debug\netcoreapp3.1\2. GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\obj\Debug\netcoreapp3.1\2. GaussTrick.dll
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\obj\Debug\netcoreapp3.1\2. GaussTrick.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\2. GaussTrick\obj\Debug\netcoreapp3.1\2. GaussTrick.genruntimeconfig.cache

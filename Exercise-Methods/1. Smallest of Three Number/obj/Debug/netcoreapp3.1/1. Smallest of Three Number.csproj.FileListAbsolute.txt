@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\bin\Debug\netcoreapp3.1\1. Smallest of Three Number.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\bin\Debug\netcoreapp3.1\1. Smallest of Three Number.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\bin\Debug\netcoreapp3.1\1. Smallest of Three Number.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\bin\Debug\netcoreapp3.1\1. Smallest of Three Number.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\bin\Debug\netcoreapp3.1\1. Smallest of Three Number.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\bin\Debug\netcoreapp3.1\1. Smallest of Three Number.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\obj\Debug\netcoreapp3.1\1. Smallest of Three Number.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\obj\Debug\netcoreapp3.1\1. Smallest of Three Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\obj\Debug\netcoreapp3.1\1. Smallest of Three Number.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\obj\Debug\netcoreapp3.1\1. Smallest of Three Number.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\obj\Debug\netcoreapp3.1\1. Smallest of Three Number.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\obj\Debug\netcoreapp3.1\1. Smallest of Three Number.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\obj\Debug\netcoreapp3.1\1. Smallest of Three Number.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\Exercise-Methods\1. Smallest of Three Number\obj\Debug\netcoreapp3.1\1. Smallest of Three Number.genruntimeconfig.cache

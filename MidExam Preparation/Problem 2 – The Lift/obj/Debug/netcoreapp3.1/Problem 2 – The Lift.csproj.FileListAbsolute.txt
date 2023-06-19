@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\bin\Debug\netcoreapp3.1\Problem 2 – The Lift.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\bin\Debug\netcoreapp3.1\Problem 2 – The Lift.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\bin\Debug\netcoreapp3.1\Problem 2 – The Lift.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\bin\Debug\netcoreapp3.1\Problem 2 – The Lift.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\bin\Debug\netcoreapp3.1\Problem 2 – The Lift.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\bin\Debug\netcoreapp3.1\Problem 2 – The Lift.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\obj\Debug\netcoreapp3.1\Problem 2 – The Lift.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\obj\Debug\netcoreapp3.1\Problem 2 – The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\obj\Debug\netcoreapp3.1\Problem 2 – The Lift.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\obj\Debug\netcoreapp3.1\Problem 2 – The Lift.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\obj\Debug\netcoreapp3.1\Problem 2 – The Lift.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\obj\Debug\netcoreapp3.1\Problem 2 – The Lift.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\obj\Debug\netcoreapp3.1\Problem 2 – The Lift.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – The Lift\obj\Debug\netcoreapp3.1\Problem 2 – The Lift.genruntimeconfig.cache

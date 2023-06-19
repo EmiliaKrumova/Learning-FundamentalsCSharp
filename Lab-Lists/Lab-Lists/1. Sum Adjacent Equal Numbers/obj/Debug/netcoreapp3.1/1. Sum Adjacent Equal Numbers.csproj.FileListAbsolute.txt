@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.exe
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.dll
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.dll
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lab-Lists\Lab-Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\bin\Debug\netcoreapp3.1\Problem 2 – Array Modifier.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\bin\Debug\netcoreapp3.1\Problem 2 – Array Modifier.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\bin\Debug\netcoreapp3.1\Problem 2 – Array Modifier.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\bin\Debug\netcoreapp3.1\Problem 2 – Array Modifier.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\bin\Debug\netcoreapp3.1\Problem 2 – Array Modifier.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\bin\Debug\netcoreapp3.1\Problem 2 – Array Modifier.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\obj\Debug\netcoreapp3.1\Problem 2 – Array Modifier.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\obj\Debug\netcoreapp3.1\Problem 2 – Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\obj\Debug\netcoreapp3.1\Problem 2 – Array Modifier.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\obj\Debug\netcoreapp3.1\Problem 2 – Array Modifier.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\obj\Debug\netcoreapp3.1\Problem 2 – Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\obj\Debug\netcoreapp3.1\Problem 2 – Array Modifier.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\obj\Debug\netcoreapp3.1\Problem 2 – Array Modifier.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 2 – Array Modifier\obj\Debug\netcoreapp3.1\Problem 2 – Array Modifier.genruntimeconfig.cache

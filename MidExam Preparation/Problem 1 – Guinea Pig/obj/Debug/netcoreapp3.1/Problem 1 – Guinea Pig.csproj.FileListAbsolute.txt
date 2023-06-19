@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.exe
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\bin\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.dll
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.pdb
+C:\Users\Em4eto\Desktop\GitHub\Lists - Exersise\MidExam Preparation\Problem 1 – Guinea Pig\obj\Debug\netcoreapp3.1\Problem 1 – Guinea Pig.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\bin\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\bin\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\bin\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\bin\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\bin\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\bin\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\obj\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\obj\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\obj\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\obj\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\obj\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\obj\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\obj\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-Project-Programming-Fundamentals\DataTypesAndVariables\Add-Ex-5DecryptingMessage\obj\Debug\netcoreapp3.1\Add-Ex-5DecryptingMessage.genruntimeconfig.cache
