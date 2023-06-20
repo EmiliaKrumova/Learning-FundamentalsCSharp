@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Objects And Classes\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.genruntimeconfig.cache
