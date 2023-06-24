@@ -1,0 +1,14 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\bin\Debug\netcoreapp3.1\01. Random Messages.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\bin\Debug\netcoreapp3.1\01. Random Messages.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\bin\Debug\netcoreapp3.1\01. Random Messages.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\bin\Debug\netcoreapp3.1\01. Random Messages.runtimeconfig.dev.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\bin\Debug\netcoreapp3.1\01. Random Messages.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\bin\Debug\netcoreapp3.1\01. Random Messages.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\obj\Debug\netcoreapp3.1\01. Random Messages.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\obj\Debug\netcoreapp3.1\01. Random Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\obj\Debug\netcoreapp3.1\01. Random Messages.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\obj\Debug\netcoreapp3.1\01. Random Messages.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\obj\Debug\netcoreapp3.1\01. Random Messages.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\obj\Debug\netcoreapp3.1\01. Random Messages.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\obj\Debug\netcoreapp3.1\01. Random Messages.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\ObjectsAndClasses - Exersise\01. Random Messages\obj\Debug\netcoreapp3.1\01. Random Messages.genruntimeconfig.cache
