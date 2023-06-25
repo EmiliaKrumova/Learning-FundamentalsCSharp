@@ -14,75 +14,68 @@ namespace _6._Vehicle_Catalogue
             List<Car> cars = new List<Car>();
             List<Truck> trucks = new List<Truck>();
             int sumOfCarsHP = 0;
-            int sumOfTruckHP = 0;
+             int sumOfTruckHP = 0;
             while ((command = Console.ReadLine()) != "End")
             {
                 string[] vehicleArgs = command.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-                string type = vehicleArgs[0].ToLower();
+                string type = vehicleArgs[0];
                 string model = vehicleArgs[1];
-                string color = vehicleArgs[2].ToLower();
+                string color = vehicleArgs[2];
                 int horsePower = int.Parse(vehicleArgs[3]);
                 if (type == "car")
                 {
-                    sumOfCarsHP += horsePower;
+                     sumOfCarsHP += horsePower;
                     Car currCar = new Car(model, color, horsePower);
                     cars.Add(currCar);
-                }else if (type == "truck")
+                }
+                else if (type == "truck")
                 {
-                   sumOfTruckHP += horsePower;
+                     sumOfTruckHP += horsePower;
                     Truck currTruck = new Truck(model, color, horsePower);
                     trucks.Add(currTruck);
                 }
             }
             string secondCommand;
-            while((secondCommand = Console.ReadLine())!= "Close the Catalogue")
+            while ((secondCommand = Console.ReadLine()) != "Close the Catalogue")
             {
 
                 if (trucks.Any(t => t.Model == secondCommand))
                 {
                     Truck truckToPrint = trucks.First(t => t.Model == secondCommand);
                     Console.WriteLine("Type: Truck");
-                    Console.WriteLine($"Model: { truckToPrint.Model}");
+                    Console.WriteLine($"Model: {truckToPrint.Model}");
                     Console.WriteLine($"Color: {truckToPrint.Color}");
                     Console.WriteLine($"Horsepower: {truckToPrint.HorsePower}");
-                }else if (cars.Any(c => c.Model == secondCommand))
+                }
+                else if (cars.Any(c => c.Model == secondCommand))
                 {
-                    Car carToPrint = cars.First(c=>c.Model == secondCommand);
+                    Car carToPrint = cars.First(c => c.Model == secondCommand);
                     Console.WriteLine("Type: Car");
                     Console.WriteLine($"Model: {carToPrint.Model}");
                     Console.WriteLine($"Color: {carToPrint.Color}");
                     Console.WriteLine($"Horsepower: {carToPrint.HorsePower}");
                 }
-               
-                
+
+
             }
-            //double avrtruckshp = 0;
+            //double avrTrucksHp = 0;
             if (cars.Count > 0)
             {
-                double avrcarshp = (double)sumOfCarsHP/ cars.Count;
-                Console.WriteLine($"Cars have average horsepower of: {avrcarshp:f2}.");
-            }
-            else
-            {
-                Console.WriteLine($"Cars have average horsepower of: {0:f2}.");
+                double avrCarsHP =(double) sumOfCarsHP / cars.Count;
+                Console.WriteLine($"Cars have average horsepower of: {avrCarsHP:f2}.");
             }
             if (trucks.Count > 0)
             {
-                double avrtruckshp = (double)sumOfTruckHP/ trucks.Count;
-                Console.WriteLine($"Trucks have average horsepower of: {avrtruckshp:f2}.");
+                double avrTrucksHp = (double)sumOfTruckHP / trucks.Count;
+                Console.WriteLine($"Trucks have average horsepower of: {avrTrucksHp:f2}.");
             }
-            else
-            {
-                Console.WriteLine($"Trucks have average horsepower of: {0:f2}.");
-            }
-            // Това е АЛТЕРНАТИВЕН НАЧИН ЗА РЕШАВАНЕ!!!
 
             //double avrTrucksHp = trucks.Any() ? trucks.Average(t => t.HorsePower) : 0;
             //double avrCarsHP = cars.Any() ? cars.Average(c => c.HorsePower) : 0;
             //Console.WriteLine($"Cars have average horsepower of: {avrCarsHP:f2}.");
             //Console.WriteLine($"Trucks have average horsepower of: {avrTrucksHp:f2}.");
         }
-        
+
     }
     public class Car
     {
@@ -95,8 +88,8 @@ namespace _6._Vehicle_Catalogue
 
         public string Model { get; set; }
         public string Color { get; set; }
-        public int HorsePower { get; set; } 
-       
+        public int HorsePower { get; set; }
+
 
     }
     public class Truck
@@ -112,7 +105,8 @@ namespace _6._Vehicle_Catalogue
         public string Color { get; set; }
         public int HorsePower { get; set; }
 
-       
+
 
     }
 }
+
