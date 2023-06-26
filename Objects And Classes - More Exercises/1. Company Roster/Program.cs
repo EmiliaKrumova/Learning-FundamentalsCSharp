@@ -21,7 +21,8 @@ namespace _1._Company_Roster
                 {
                     departments.Add(new Department(department));
                 }
-                
+
+                //departments.AddNewEmployee(name, salary);
                 departments.Find(d=>d.DeptName==department).AddNewEmployee(name, salary);
               
             }
