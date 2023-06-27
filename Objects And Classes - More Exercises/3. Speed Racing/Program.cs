@@ -71,10 +71,10 @@ namespace _3._Speed_Racing
             }
             return  this;
         }
-        public override string ToString()
-        {
-            return $"{Model} {Fuel:f2} {TravelKM}";//Print the fuel amount rounded to two digitsafter the decimal separator
-        }
+        //public override string ToString()
+        //{
+        //    return $"{Model} {Fuel:f2} {TravelKM}";//Print the fuel amount rounded to two digitsafter the decimal separator
+        //}
     }
 //    Define a class Car that keeps a track of a car's model, fuel amount, fuel consumption per kilometer and traveled 
 //distance.A Car's model is unique - there will never be 2 cars with the same model
