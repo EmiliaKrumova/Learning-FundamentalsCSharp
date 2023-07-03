@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Speed Racing", "3. Speed
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Raw Data", "4. Raw Data\4. Raw Data.csproj", "{889D8AEE-1F94-469A-9718-D88051125437}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Shopping Spree", "5. Shopping Spree\5. Shopping Spree.csproj", "{C5CE43C7-D5FF-4FDE-8608-EE502485B432}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{889D8AEE-1F94-469A-9718-D88051125437}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{889D8AEE-1F94-469A-9718-D88051125437}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{889D8AEE-1F94-469A-9718-D88051125437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CE43C7-D5FF-4FDE-8608-EE502485B432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CE43C7-D5FF-4FDE-8608-EE502485B432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CE43C7-D5FF-4FDE-8608-EE502485B432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CE43C7-D5FF-4FDE-8608-EE502485B432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
