@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\refint\2. Odd Occurrences.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Dictionaries, Lambda and LINQ-Lab\2. Odd Occurrences\obj\Debug\net6.0\ref\2. Odd Occurrences.dll

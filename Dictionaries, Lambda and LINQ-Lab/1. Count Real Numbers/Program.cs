@@ -19,7 +19,7 @@
             }
             foreach (var number in counts)
             {
-                Console.WriteLine($"{number.Key}-> {number.Value}");
+                Console.WriteLine($"{number.Key} -> {number.Value}");
             }
         }
     }
