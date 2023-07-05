@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\bin\Debug\net6.0\1. Ranking.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\bin\Debug\net6.0\1. Ranking.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\bin\Debug\net6.0\1. Ranking.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\bin\Debug\net6.0\1. Ranking.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\bin\Debug\net6.0\1. Ranking.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\1. Ranking.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\1. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\1. Ranking.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\1. Ranking.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\1. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\1. Ranking.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\refint\1. Ranking.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\1. Ranking.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\1. Ranking.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\1. Ranking\obj\Debug\net6.0\ref\1. Ranking.dll
