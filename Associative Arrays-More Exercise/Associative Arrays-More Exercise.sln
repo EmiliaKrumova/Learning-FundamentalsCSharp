@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Ranking", "1. Ranking\1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Judge", "2. Judge\2. Judge.csproj", "{84CB842E-9FBB-49F9-8187-69A53192404F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MOBA Challenger", "3. MOBA Challenger\3. MOBA Challenger.csproj", "{E7C727E4-4894-457D-A94D-6982EEF3EFB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{84CB842E-9FBB-49F9-8187-69A53192404F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84CB842E-9FBB-49F9-8187-69A53192404F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84CB842E-9FBB-49F9-8187-69A53192404F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C727E4-4894-457D-A94D-6982EEF3EFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C727E4-4894-457D-A94D-6982EEF3EFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C727E4-4894-457D-A94D-6982EEF3EFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C727E4-4894-457D-A94D-6982EEF3EFB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

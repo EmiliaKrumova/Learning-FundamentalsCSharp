@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\refint\3. MOBA Challenger.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\3. MOBA Challenger\obj\Debug\net6.0\ref\3. MOBA Challenger.dll
