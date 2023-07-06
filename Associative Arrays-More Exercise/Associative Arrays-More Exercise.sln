@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Judge", "2. Judge\2. Jud
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MOBA Challenger", "3. MOBA Challenger\3. MOBA Challenger.csproj", "{E7C727E4-4894-457D-A94D-6982EEF3EFB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Snowwhite", "4. Snowwhite\4. Snowwhite.csproj", "{527CABE3-D4DE-4028-B0EE-6FDFD3495316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E7C727E4-4894-457D-A94D-6982EEF3EFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7C727E4-4894-457D-A94D-6982EEF3EFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7C727E4-4894-457D-A94D-6982EEF3EFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527CABE3-D4DE-4028-B0EE-6FDFD3495316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527CABE3-D4DE-4028-B0EE-6FDFD3495316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527CABE3-D4DE-4028-B0EE-6FDFD3495316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527CABE3-D4DE-4028-B0EE-6FDFD3495316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

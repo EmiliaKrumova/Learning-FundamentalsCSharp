@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\bin\Debug\net6.0\4. Snowwhite.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\bin\Debug\net6.0\4. Snowwhite.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\bin\Debug\net6.0\4. Snowwhite.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\bin\Debug\net6.0\4. Snowwhite.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\bin\Debug\net6.0\4. Snowwhite.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\4. Snowwhite.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\4. Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\4. Snowwhite.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\4. Snowwhite.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\4. Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\4. Snowwhite.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\refint\4. Snowwhite.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\4. Snowwhite.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\4. Snowwhite.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\4. Snowwhite\obj\Debug\net6.0\ref\4. Snowwhite.dll

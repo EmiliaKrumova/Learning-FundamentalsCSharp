@@ -48,10 +48,12 @@ namespace _3._MOBA_Challenger
                                     if (players[firstPlayer].Values.Sum() > players[secondPlayer].Values.Sum())
                                     {
                                         loser = secondPlayer;
+                                        break;
                                     }                                        
                                     else if (players[firstPlayer].Values.Sum() < players[secondPlayer].Values.Sum())
                                     {
                                         loser = secondPlayer;
+                                        break;
                                     }
                                     else
                                     {
@@ -59,12 +61,18 @@ namespace _3._MOBA_Challenger
                                     }
                                        
                                 }
+                                
                             }
+                            
+
                         }
-                        if (loser!=string.Empty)
+                        if (loser != string.Empty)
                         {
                             players.Remove(loser);
+                            continue;
                         }
+
+
 
                     }
                     else
@@ -77,7 +85,7 @@ namespace _3._MOBA_Challenger
             foreach(var player in players.OrderByDescending(s => s.Value.Values.Sum()).ThenBy(x => x.Key))
             {
                 Console.WriteLine($"{player.Key}: {player.Value.Values.Sum()} skill");
-                foreach (var position in player.Value.OrderByDescending(x => x.Value).ThenBy(p => p.Key))
+                foreach (var position in player.Value.OrderByDescending(x => x.Value).ThenBy(x => x.Key))
                 {
                     Console.WriteLine($"- {position.Key} <::> {position.Value}");
                 }
