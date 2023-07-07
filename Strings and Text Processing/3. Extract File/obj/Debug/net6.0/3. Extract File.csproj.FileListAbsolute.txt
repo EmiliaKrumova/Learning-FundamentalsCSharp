@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\bin\Debug\net6.0\3. Extract File.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\bin\Debug\net6.0\3. Extract File.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\bin\Debug\net6.0\3. Extract File.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\bin\Debug\net6.0\3. Extract File.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\bin\Debug\net6.0\3. Extract File.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\3. Extract File.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\3. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\3. Extract File.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\3. Extract File.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\3. Extract File.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\3. Extract File.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\refint\3. Extract File.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\3. Extract File.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\3. Extract File.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\3. Extract File\obj\Debug\net6.0\ref\3. Extract File.dll

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Valid Usernames", "1. Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Character Multiplier", "2. Character Multiplier\2. Character Multiplier.csproj", "{173467AA-41D0-424F-9A3A-BE386B7C7E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Extract File", "3. Extract File\3. Extract File.csproj", "{0057797C-36F0-4666-97A5-459F6D0590F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Caesar Cipher", "4. Caesar Cipher\4. Caesar Cipher.csproj", "{93FF815D-6014-4FF9-BDF5-149B44A7003C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{173467AA-41D0-424F-9A3A-BE386B7C7E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{173467AA-41D0-424F-9A3A-BE386B7C7E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{173467AA-41D0-424F-9A3A-BE386B7C7E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0057797C-36F0-4666-97A5-459F6D0590F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0057797C-36F0-4666-97A5-459F6D0590F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0057797C-36F0-4666-97A5-459F6D0590F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0057797C-36F0-4666-97A5-459F6D0590F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FF815D-6014-4FF9-BDF5-149B44A7003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FF815D-6014-4FF9-BDF5-149B44A7003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FF815D-6014-4FF9-BDF5-149B44A7003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FF815D-6014-4FF9-BDF5-149B44A7003C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\bin\Debug\net6.0\4. Caesar Cipher.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\bin\Debug\net6.0\4. Caesar Cipher.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\bin\Debug\net6.0\4. Caesar Cipher.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\bin\Debug\net6.0\4. Caesar Cipher.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\bin\Debug\net6.0\4. Caesar Cipher.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\4. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\4. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\4. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\4. Caesar Cipher.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\4. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\4. Caesar Cipher.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\refint\4. Caesar Cipher.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\4. Caesar Cipher.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\4. Caesar Cipher.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\4. Caesar Cipher\obj\Debug\net6.0\ref\4. Caesar Cipher.dll
