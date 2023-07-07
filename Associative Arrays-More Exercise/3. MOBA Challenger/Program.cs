@@ -52,7 +52,7 @@ namespace _3._MOBA_Challenger
                                     }                                        
                                     else if (players[firstPlayer].Values.Sum() < players[secondPlayer].Values.Sum())
                                     {
-                                        loser = secondPlayer;
+                                        loser = firstPlayer;
                                         break;
                                     }
                                     else
