@@ -13,13 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Reverse Strings", "1. Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Digits, Letters and Other", "5. Digits, Letters and Other\5. Digits, Letters and Other.csproj", "{A176D27B-E785-461B-B9EB-08FBBCAEC722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Valid Usernames", "1. Valid Usernames\1. Valid Usernames.csproj", "{020A1E12-2654-4A0D-A483-6B9E45A61F73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Valid Usernames", "1. Valid Usernames\1. Valid Usernames.csproj", "{020A1E12-2654-4A0D-A483-6B9E45A61F73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Character Multiplier", "2. Character Multiplier\2. Character Multiplier.csproj", "{173467AA-41D0-424F-9A3A-BE386B7C7E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Character Multiplier", "2. Character Multiplier\2. Character Multiplier.csproj", "{173467AA-41D0-424F-9A3A-BE386B7C7E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Extract File", "3. Extract File\3. Extract File.csproj", "{0057797C-36F0-4666-97A5-459F6D0590F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Extract File", "3. Extract File\3. Extract File.csproj", "{0057797C-36F0-4666-97A5-459F6D0590F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Caesar Cipher", "4. Caesar Cipher\4. Caesar Cipher.csproj", "{93FF815D-6014-4FF9-BDF5-149B44A7003C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Caesar Cipher", "4. Caesar Cipher\4. Caesar Cipher.csproj", "{93FF815D-6014-4FF9-BDF5-149B44A7003C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Multiply Big Number", "5. Multiply Big Number\5. Multiply Big Number.csproj", "{80E5A411-F454-4C66-A76C-13DB81ADEB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Replace Repeating Chars", "6. Replace Repeating Chars\6. Replace Repeating Chars.csproj", "{EDE4DE92-F29C-42F4-9C2E-F44FB0B58AE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{93FF815D-6014-4FF9-BDF5-149B44A7003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93FF815D-6014-4FF9-BDF5-149B44A7003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93FF815D-6014-4FF9-BDF5-149B44A7003C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E5A411-F454-4C66-A76C-13DB81ADEB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E5A411-F454-4C66-A76C-13DB81ADEB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E5A411-F454-4C66-A76C-13DB81ADEB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E5A411-F454-4C66-A76C-13DB81ADEB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE4DE92-F29C-42F4-9C2E-F44FB0B58AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE4DE92-F29C-42F4-9C2E-F44FB0B58AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE4DE92-F29C-42F4-9C2E-F44FB0B58AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE4DE92-F29C-42F4-9C2E-F44FB0B58AE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
