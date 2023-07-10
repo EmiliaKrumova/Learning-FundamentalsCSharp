@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\bin\Debug\net6.0\1. Match Full Name.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\bin\Debug\net6.0\1. Match Full Name.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\bin\Debug\net6.0\1. Match Full Name.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\bin\Debug\net6.0\1. Match Full Name.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\bin\Debug\net6.0\1. Match Full Name.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\1. Match Full Name.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\1. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\1. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\1. Match Full Name.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\1. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\1. Match Full Name.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\refint\1. Match Full Name.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\1. Match Full Name.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\1. Match Full Name.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Match Full Name\obj\Debug\net6.0\ref\1. Match Full Name.dll

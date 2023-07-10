@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net6.0\8. Letters Change Numbers.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net6.0\8. Letters Change Numbers.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net6.0\8. Letters Change Numbers.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net6.0\8. Letters Change Numbers.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net6.0\8. Letters Change Numbers.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\8. Letters Change Numbers.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\8. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\8. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\8. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\8. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\8. Letters Change Numbers.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\refint\8. Letters Change Numbers.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\8. Letters Change Numbers.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\8. Letters Change Numbers.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net6.0\ref\8. Letters Change Numbers.dll
