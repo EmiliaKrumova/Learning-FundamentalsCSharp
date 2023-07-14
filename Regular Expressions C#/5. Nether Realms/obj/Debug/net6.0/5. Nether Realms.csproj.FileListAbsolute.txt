@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\bin\Debug\net6.0\5. Nether Realms.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\bin\Debug\net6.0\5. Nether Realms.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\bin\Debug\net6.0\5. Nether Realms.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\bin\Debug\net6.0\5. Nether Realms.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\bin\Debug\net6.0\5. Nether Realms.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\5. Nether Realms.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\5. Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\5. Nether Realms.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\5. Nether Realms.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\5. Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\5. Nether Realms.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\refint\5. Nether Realms.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\5. Nether Realms.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\5. Nether Realms.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\5. Nether Realms\obj\Debug\net6.0\ref\5. Nether Realms.dll

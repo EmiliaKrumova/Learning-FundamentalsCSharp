@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\bin\Debug\net6.0\4. Star Enigma.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\bin\Debug\net6.0\4. Star Enigma.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\bin\Debug\net6.0\4. Star Enigma.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\bin\Debug\net6.0\4. Star Enigma.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\bin\Debug\net6.0\4. Star Enigma.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\4. Star Enigma.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\4. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\4. Star Enigma.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\4. Star Enigma.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\4. Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\4. Star Enigma.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\refint\4. Star Enigma.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\4. Star Enigma.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\4. Star Enigma.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\4. Star Enigma\obj\Debug\net6.0\ref\4. Star Enigma.dll
