@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\bin\Debug\net6.0\1. Furniture.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\bin\Debug\net6.0\1. Furniture.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\bin\Debug\net6.0\1. Furniture.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\bin\Debug\net6.0\1. Furniture.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\bin\Debug\net6.0\1. Furniture.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\1. Furniture.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\1. Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\1. Furniture.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\1. Furniture.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\1. Furniture.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\1. Furniture.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\refint\1. Furniture.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\1. Furniture.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\1. Furniture.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\1. Furniture\obj\Debug\net6.0\ref\1. Furniture.dll
