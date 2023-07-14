@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\bin\Debug\net6.0\6. Extract Emails.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\bin\Debug\net6.0\6. Extract Emails.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\bin\Debug\net6.0\6. Extract Emails.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\bin\Debug\net6.0\6. Extract Emails.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\bin\Debug\net6.0\6. Extract Emails.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\6. Extract Emails.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\6. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\6. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\6. Extract Emails.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\6. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\6. Extract Emails.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\refint\6. Extract Emails.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\6. Extract Emails.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\6. Extract Emails.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Regular Expressions C#\6. Extract Emails\obj\Debug\net6.0\ref\6. Extract Emails.dll
