@@ -5,11 +5,13 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Ranking", "1. Ranking\1. Ranking.csproj", "{431AA1DC-E9A3-4756-81D6-5F6CE60AE3B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Judge", "2. Judge\2. Judge.csproj", "{84CB842E-9FBB-49F9-8187-69A53192404F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Judge", "2. Judge\2. Judge.csproj", "{84CB842E-9FBB-49F9-8187-69A53192404F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MOBA Challenger", "3. MOBA Challenger\3. MOBA Challenger.csproj", "{E7C727E4-4894-457D-A94D-6982EEF3EFB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. MOBA Challenger", "3. MOBA Challenger\3. MOBA Challenger.csproj", "{E7C727E4-4894-457D-A94D-6982EEF3EFB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Snowwhite", "4. Snowwhite\4. Snowwhite.csproj", "{527CABE3-D4DE-4028-B0EE-6FDFD3495316}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Snowwhite", "4. Snowwhite\4. Snowwhite.csproj", "{527CABE3-D4DE-4028-B0EE-6FDFD3495316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Dragon Army", "5. Dragon Army\5. Dragon Army.csproj", "{951A4675-CB6D-4385-A0D4-CC9A007DCE3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{527CABE3-D4DE-4028-B0EE-6FDFD3495316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{527CABE3-D4DE-4028-B0EE-6FDFD3495316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{527CABE3-D4DE-4028-B0EE-6FDFD3495316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951A4675-CB6D-4385-A0D4-CC9A007DCE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951A4675-CB6D-4385-A0D4-CC9A007DCE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951A4675-CB6D-4385-A0D4-CC9A007DCE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951A4675-CB6D-4385-A0D4-CC9A007DCE3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

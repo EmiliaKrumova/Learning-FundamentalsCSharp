@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\bin\Debug\net6.0\5. Dragon Army.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\bin\Debug\net6.0\5. Dragon Army.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\bin\Debug\net6.0\5. Dragon Army.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\bin\Debug\net6.0\5. Dragon Army.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\bin\Debug\net6.0\5. Dragon Army.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\5. Dragon Army.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\5. Dragon Army.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\5. Dragon Army.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\5. Dragon Army.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\5. Dragon Army.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\5. Dragon Army.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\refint\5. Dragon Army.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\5. Dragon Army.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\5. Dragon Army.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Associative Arrays-More Exercise\5. Dragon Army\obj\Debug\net6.0\ref\5. Dragon Army.dll
