@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\bin\Debug\net6.0\5. Multiplication Sign.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\bin\Debug\net6.0\5. Multiplication Sign.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\bin\Debug\net6.0\5. Multiplication Sign.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\bin\Debug\net6.0\5. Multiplication Sign.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\bin\Debug\net6.0\5. Multiplication Sign.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\5. Multiplication Sign.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\5. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\5. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\5. Multiplication Sign.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\5. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\5. Multiplication Sign.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\refint\5. Multiplication Sign.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\5. Multiplication Sign.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\5. Multiplication Sign.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\5. Multiplication Sign\obj\Debug\net6.0\ref\5. Multiplication Sign.dll
