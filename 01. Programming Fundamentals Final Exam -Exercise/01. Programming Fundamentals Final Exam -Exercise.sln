@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - Ad Astra", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 -The Pianist", "Problem 3 -The Pianist\Problem 3 -The Pianist.csproj", "{45502647-7AC0-4F26-9BCE-06E9245C6E6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - World Tour", "Problem 1 - World Tour\Problem 1 - World Tour.csproj", "{24787E35-AD86-44C0-B1A4-5E20FE2D7145}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{45502647-7AC0-4F26-9BCE-06E9245C6E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45502647-7AC0-4F26-9BCE-06E9245C6E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45502647-7AC0-4F26-9BCE-06E9245C6E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24787E35-AD86-44C0-B1A4-5E20FE2D7145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24787E35-AD86-44C0-B1A4-5E20FE2D7145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24787E35-AD86-44C0-B1A4-5E20FE2D7145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24787E35-AD86-44C0-B1A4-5E20FE2D7145}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
