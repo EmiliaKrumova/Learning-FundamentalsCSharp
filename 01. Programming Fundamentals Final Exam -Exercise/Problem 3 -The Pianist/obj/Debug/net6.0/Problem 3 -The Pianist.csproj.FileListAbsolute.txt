@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\bin\Debug\net6.0\Problem 3 -The Pianist.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\bin\Debug\net6.0\Problem 3 -The Pianist.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\bin\Debug\net6.0\Problem 3 -The Pianist.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\bin\Debug\net6.0\Problem 3 -The Pianist.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\bin\Debug\net6.0\Problem 3 -The Pianist.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\Problem 3 -The Pianist.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\Problem 3 -The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\Problem 3 -The Pianist.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\Problem 3 -The Pianist.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\Problem 3 -The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\Problem 3 -The Pianist.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\refint\Problem 3 -The Pianist.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\Problem 3 -The Pianist.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\Problem 3 -The Pianist.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -The Pianist\obj\Debug\net6.0\ref\Problem 3 -The Pianist.dll
