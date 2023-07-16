@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\bin\Debug\net6.0\3. Longer Line.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\bin\Debug\net6.0\3. Longer Line.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\bin\Debug\net6.0\3. Longer Line.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\bin\Debug\net6.0\3. Longer Line.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\bin\Debug\net6.0\3. Longer Line.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\3. Longer Line.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\3. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\3. Longer Line.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\3. Longer Line.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\3. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\3. Longer Line.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\refint\3. Longer Line.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\3. Longer Line.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\3. Longer Line.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\3. Longer Line\obj\Debug\net6.0\ref\3. Longer Line.dll

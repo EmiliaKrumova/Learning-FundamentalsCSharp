@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\bin\Debug\net6.0\4. Tribonacci Sequence.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\bin\Debug\net6.0\4. Tribonacci Sequence.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\bin\Debug\net6.0\4. Tribonacci Sequence.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\bin\Debug\net6.0\4. Tribonacci Sequence.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\bin\Debug\net6.0\4. Tribonacci Sequence.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\4. Tribonacci Sequence.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\4. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\4. Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\4. Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\4. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\4. Tribonacci Sequence.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\refint\4. Tribonacci Sequence.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\4. Tribonacci Sequence.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\4. Tribonacci Sequence.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\4. Tribonacci Sequence\obj\Debug\net6.0\ref\4. Tribonacci Sequence.dll

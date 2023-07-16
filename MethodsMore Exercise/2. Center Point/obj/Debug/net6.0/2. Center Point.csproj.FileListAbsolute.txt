@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\bin\Debug\net6.0\2. Center Point.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\bin\Debug\net6.0\2. Center Point.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\bin\Debug\net6.0\2. Center Point.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\bin\Debug\net6.0\2. Center Point.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\bin\Debug\net6.0\2. Center Point.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\2. Center Point.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\2. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\2. Center Point.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\2. Center Point.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\2. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\2. Center Point.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\refint\2. Center Point.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\2. Center Point.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\2. Center Point.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\MethodsMore Exercise\2. Center Point\obj\Debug\net6.0\ref\2. Center Point.dll
