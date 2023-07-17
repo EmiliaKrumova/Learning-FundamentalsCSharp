@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\Problem 1 - Activ Keys.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\Problem 1 - Activ Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\Problem 1 - Activ Keys.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\Problem 1 - Activ Keys.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\Problem 1 - Activ Keys.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\bin\Debug\net6.0\Problem 1 - Activ Keys.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\bin\Debug\net6.0\Problem 1 - Activ Keys.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\bin\Debug\net6.0\Problem 1 - Activ Keys.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\bin\Debug\net6.0\Problem 1 - Activ Keys.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\bin\Debug\net6.0\Problem 1 - Activ Keys.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\Problem 1 - Activ Keys.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\refint\Problem 1 - Activ Keys.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\Problem 1 - Activ Keys.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\Problem 1 - Activ Keys.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 1 - Activ Keys\obj\Debug\net6.0\ref\Problem 1 - Activ Keys.dll
