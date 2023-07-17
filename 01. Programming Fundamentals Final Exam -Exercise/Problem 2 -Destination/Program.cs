@@ -17,10 +17,11 @@ namespace Problem_2__Destination
                 points += match.Groups["location"].Length;
                 destinations.Add(match.Groups["location"].Value);
             }
-           // Console.Write("Destinations: ");
-           // Console.WriteLine(String.Join(", ", destinations));
-            Console.WriteLine($"Travel Points: {points}");
+            // Console.Write("Destinations: ");
+            // Console.WriteLine(String.Join(", ", destinations));
             Console.WriteLine($"Destinations: {(String.Join(", ", destinations))}");
+            Console.WriteLine($"Travel Points: {points}");
+            
         }
     }
 }

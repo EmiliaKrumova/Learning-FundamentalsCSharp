@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\bin\Debug\net6.0\Problem 3 -PlantDiscov.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\bin\Debug\net6.0\Problem 3 -PlantDiscov.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\bin\Debug\net6.0\Problem 3 -PlantDiscov.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\bin\Debug\net6.0\Problem 3 -PlantDiscov.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\bin\Debug\net6.0\Problem 3 -PlantDiscov.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\Problem 3 -PlantDiscov.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\Problem 3 -PlantDiscov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\Problem 3 -PlantDiscov.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\Problem 3 -PlantDiscov.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\Problem 3 -PlantDiscov.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\Problem 3 -PlantDiscov.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\refint\Problem 3 -PlantDiscov.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\Problem 3 -PlantDiscov.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\Problem 3 -PlantDiscov.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 3 -PlantDiscov\obj\Debug\net6.0\ref\Problem 3 -PlantDiscov.dll
