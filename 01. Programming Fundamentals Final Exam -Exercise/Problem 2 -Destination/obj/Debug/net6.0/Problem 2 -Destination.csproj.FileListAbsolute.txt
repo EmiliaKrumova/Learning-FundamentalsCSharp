@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\bin\Debug\net6.0\Problem 2 -Destination.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\bin\Debug\net6.0\Problem 2 -Destination.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\bin\Debug\net6.0\Problem 2 -Destination.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\bin\Debug\net6.0\Problem 2 -Destination.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\bin\Debug\net6.0\Problem 2 -Destination.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\Problem 2 -Destination.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\Problem 2 -Destination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\Problem 2 -Destination.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\Problem 2 -Destination.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\Problem 2 -Destination.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\Problem 2 -Destination.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\refint\Problem 2 -Destination.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\Problem 2 -Destination.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\Problem 2 -Destination.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2 -Destination\obj\Debug\net6.0\ref\Problem 2 -Destination.dll
