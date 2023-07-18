@@ -5,17 +5,21 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1 - The Imitation Game", "Problem 1 - The Imitation Game\Problem 1 - The Imitation Game.csproj", "{62D66373-857A-4F1C-8D0F-5F4AEEE86DBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - Ad Astra", "Problem 2 - Ad Astra\Problem 2 - Ad Astra.csproj", "{8492B243-BE9D-45D3-B40B-AB537DD674A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2 - Ad Astra", "Problem 2 - Ad Astra\Problem 2 - Ad Astra.csproj", "{8492B243-BE9D-45D3-B40B-AB537DD674A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 -The Pianist", "Problem 3 -The Pianist\Problem 3 -The Pianist.csproj", "{45502647-7AC0-4F26-9BCE-06E9245C6E6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3 -The Pianist", "Problem 3 -The Pianist\Problem 3 -The Pianist.csproj", "{45502647-7AC0-4F26-9BCE-06E9245C6E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - World Tour", "Problem 1 - World Tour\Problem 1 - World Tour.csproj", "{24787E35-AD86-44C0-B1A4-5E20FE2D7145}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1 - World Tour", "Problem 1 - World Tour\Problem 1 - World Tour.csproj", "{24787E35-AD86-44C0-B1A4-5E20FE2D7145}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 -Destination", "Problem 2 -Destination\Problem 2 -Destination.csproj", "{FC491B46-E759-4F15-968D-2F41804D725C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2 -Destination", "Problem 2 -Destination\Problem 2 -Destination.csproj", "{FC491B46-E759-4F15-968D-2F41804D725C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 -PlantDiscov", "Problem 3 -PlantDiscov\Problem 3 -PlantDiscov.csproj", "{1FB0E2ED-D5D7-4CB2-938E-4C04ADD1F042}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3 -PlantDiscov", "Problem 3 -PlantDiscov\Problem 3 -PlantDiscov.csproj", "{1FB0E2ED-D5D7-4CB2-938E-4C04ADD1F042}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - Activ Keys", "Problem 1 - Activ Keys\Problem 1 - Activ Keys.csproj", "{19C7D839-516D-47EB-93CF-D6C4AA9004CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1 - Activ Keys", "Problem 1 - Activ Keys\Problem 1 - Activ Keys.csproj", "{19C7D839-516D-47EB-93CF-D6C4AA9004CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2-EmojiDetect", "Problem 2-EmojiDetect\Problem 2-EmojiDetect.csproj", "{1009C778-E9B3-4C1A-9F04-2DD1CEDB7CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 - Pirates", "Problem 3 - Pirates\Problem 3 - Pirates.csproj", "{7D91BFC4-EF33-4A83-B94D-5A66E30A7B91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{19C7D839-516D-47EB-93CF-D6C4AA9004CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19C7D839-516D-47EB-93CF-D6C4AA9004CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19C7D839-516D-47EB-93CF-D6C4AA9004CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1009C778-E9B3-4C1A-9F04-2DD1CEDB7CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1009C778-E9B3-4C1A-9F04-2DD1CEDB7CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1009C778-E9B3-4C1A-9F04-2DD1CEDB7CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1009C778-E9B3-4C1A-9F04-2DD1CEDB7CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D91BFC4-EF33-4A83-B94D-5A66E30A7B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D91BFC4-EF33-4A83-B94D-5A66E30A7B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D91BFC4-EF33-4A83-B94D-5A66E30A7B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D91BFC4-EF33-4A83-B94D-5A66E30A7B91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

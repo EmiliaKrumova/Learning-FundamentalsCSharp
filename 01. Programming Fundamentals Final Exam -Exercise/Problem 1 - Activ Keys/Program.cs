@@ -12,50 +12,80 @@ namespace Problem_1___Activ_Keys
             {
                 string[] comArgs = command.Split(">>>", StringSplitOptions.RemoveEmptyEntries);
                 string realCom = comArgs[0];
-                if (realCom == "Contains")
-                {
-                    string substring = comArgs[1];
-                    if (input.Contains(substring))
-                    {
-                        Console.WriteLine($"{input} contains {substring}");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Substring not found!");  // Emili aK rumova
-                    }
-                }else if (realCom == "Flip")
-                {
-                    string secCom = comArgs[1];
-                    int startIndex = int.Parse(comArgs[2]);
-                    int endIndex = int.Parse(comArgs[3]);
-                    if(secCom== "Upper")
-                    {
-                        string substring = input.Substring(startIndex, endIndex - startIndex);
-                        input = input.Remove(startIndex, substring.Length);
-                        substring = substring.ToUpper();
-                       input =  input.Insert(startIndex, substring);
-                           // (startIndex,endIndex).ToUpper();
+                input = Operations(input, comArgs, realCom);
+            }
+            Console.WriteLine($"Your activation key is: {input}");
+        }
 
-                    }else if (secCom== "Lower")
-                    {
-                        string substring = input.Substring(startIndex, endIndex - startIndex);
-                        input = input.Remove(startIndex, substring.Length);
-                        substring = substring.ToLower();
-                        input = input.Insert(startIndex, substring);
-                        Console.WriteLine(input);
-                    }
+        private static string Operations(string input, string[] comArgs, string realCom)
+        {
+            if (realCom == "Contains")
+            {
+                Contains(input, comArgs);
+            }
+            else if (realCom == "Flip")
+            {
+                input = FlipMethod(input, comArgs);
 
+            }
+            else if ((realCom == "Slice"))
+            {
+                input = SliceMethod(input, comArgs);
 
-                }else if ((realCom == "Slice"))
-                {
-                    int startIndex = int.Parse(comArgs[1]);
-                    int endIndex = int.Parse(comArgs[2]);
-                    string substring = input.Substring(startIndex, endIndex - startIndex);
-                    input = input.Remove(startIndex, substring.Length);
-                    Console.WriteLine(input);
+            }
 
-                }
-            } Console.WriteLine($"Your activation key is: {input}");
+            return input;
+        }
+
+        private static string SliceMethod(string input, string[] comArgs)
+        {
+            int startIndex = int.Parse(comArgs[1]);
+            int endIndex = int.Parse(comArgs[2]);
+            string substring = input.Substring(startIndex, endIndex - startIndex);
+            input = input.Remove(startIndex, substring.Length);
+            Console.WriteLine(input);
+            return input;
+        }
+
+        private static string FlipMethod(string input, string[] comArgs)
+        {
+            string secCom = comArgs[1];
+            int startIndex = int.Parse(comArgs[2]);
+            int endIndex = int.Parse(comArgs[3]);
+
+            if (secCom == "Upper")
+            {
+                string substring = input.Substring(startIndex, endIndex - startIndex);
+                input = input.Remove(startIndex, substring.Length);
+                substring = substring.ToUpper();
+                input = input.Insert(startIndex, substring);
+                Console.WriteLine(input);
+                // (startIndex,endIndex).ToUpper();
+
+            }
+            else if (secCom == "Lower")
+            {
+                string substring = input.Substring(startIndex, endIndex - startIndex);
+                input = input.Remove(startIndex, substring.Length);
+                substring = substring.ToLower();
+                input = input.Insert(startIndex, substring);
+                Console.WriteLine(input);
+            }
+
+            return input;
+        }
+
+        private static void Contains(string input, string[] comArgs)
+        {
+            string substring = comArgs[1];
+            if (input.Contains(substring))
+            {
+                Console.WriteLine($"{input} contains {substring}");
+            }
+            else
+            {
+                Console.WriteLine("Substring not found!");  
+            }
         }
     }
 }

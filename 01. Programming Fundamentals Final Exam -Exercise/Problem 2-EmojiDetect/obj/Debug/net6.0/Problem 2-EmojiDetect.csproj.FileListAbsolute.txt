@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\bin\Debug\net6.0\Problem 2-EmojiDetect.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\bin\Debug\net6.0\Problem 2-EmojiDetect.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\bin\Debug\net6.0\Problem 2-EmojiDetect.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\bin\Debug\net6.0\Problem 2-EmojiDetect.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\bin\Debug\net6.0\Problem 2-EmojiDetect.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\Problem 2-EmojiDetect.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\Problem 2-EmojiDetect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\Problem 2-EmojiDetect.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\Problem 2-EmojiDetect.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\Problem 2-EmojiDetect.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\Problem 2-EmojiDetect.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\refint\Problem 2-EmojiDetect.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\Problem 2-EmojiDetect.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\Problem 2-EmojiDetect.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\01. Programming Fundamentals Final Exam -Exercise\Problem 2-EmojiDetect\obj\Debug\net6.0\ref\Problem 2-EmojiDetect.dll
