@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\refint\Problem 3 - Heroes of Code and Logic VII.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\Problem 3 - Heroes of Code and Logic VII.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net6.0\ref\Problem 3 - Heroes of Code and Logic VII.dll
