@@ -6,6 +6,7 @@
         {
             int n = int.Parse(Console.ReadLine());
             Dictionary<string, int[]> heroes = new Dictionary<string, int[]>();
+
             for (int i = 0; i < n; i++)
             {
                 string heroInfo = Console.ReadLine();
@@ -35,7 +36,7 @@
                     {
                         int mana = heroes[heroName][1];
                         int leftMana = mana-points;
-                        Console.WriteLine($"{heroName} has successfully cast {spell} and now has {mana - points} MP!");
+                        Console.WriteLine($"{heroName} has successfully cast {spell} and now has {leftMana} MP!");
                         heroes[heroName][1] = leftMana;
                     }
                     else
@@ -48,7 +49,7 @@
                     int damage = int.Parse(comArgs[2]);
                     string attacker = comArgs[3];
                     int hpointsLeft = heroes[heroName][0] - damage;
-                    if (hpointsLeft < 0)
+                    if (hpointsLeft <= 0)
                     {
                         Console.WriteLine($"{heroName} has been killed by {attacker}!");
                         heroes.Remove(heroName);
