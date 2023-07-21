@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\refint\Problem 2 - Mirror words.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 2 - Mirror words\obj\Debug\net6.0\ref\Problem 2 - Mirror words.dll

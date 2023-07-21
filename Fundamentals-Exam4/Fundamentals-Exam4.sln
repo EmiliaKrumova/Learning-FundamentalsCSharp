@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 - Heroes of Code 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - Secret Chat", "Problem 1 - Secret Chat\Problem 1 - Secret Chat.csproj", "{DF37A189-54CF-4F2B-8E28-CC1B354A057E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - Mirror words", "Problem 2 - Mirror words\Problem 2 - Mirror words.csproj", "{E040E7BC-25E4-446C-8AEA-9A9909013539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 - Need for Speed III", "Problem 3 - Need for Speed III\Problem 3 - Need for Speed III.csproj", "{13C8D006-AFD3-4DD4-99AF-D07E579017C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{DF37A189-54CF-4F2B-8E28-CC1B354A057E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF37A189-54CF-4F2B-8E28-CC1B354A057E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF37A189-54CF-4F2B-8E28-CC1B354A057E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E040E7BC-25E4-446C-8AEA-9A9909013539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E040E7BC-25E4-446C-8AEA-9A9909013539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E040E7BC-25E4-446C-8AEA-9A9909013539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E040E7BC-25E4-446C-8AEA-9A9909013539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C8D006-AFD3-4DD4-99AF-D07E579017C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C8D006-AFD3-4DD4-99AF-D07E579017C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C8D006-AFD3-4DD4-99AF-D07E579017C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C8D006-AFD3-4DD4-99AF-D07E579017C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

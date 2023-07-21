@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\refint\Problem 3 - Need for Speed III.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Fundamentals-Exam4\Problem 3 - Need for Speed III\obj\Debug\net6.0\ref\Problem 3 - Need for Speed III.dll
