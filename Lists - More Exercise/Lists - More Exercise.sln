@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Messaging", "01. Messaging\01. Messaging.csproj", "{8D83AD91-0ABF-4092-9167-58A637B8D0C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Car Race", "2. Car Race\2. Car Race.csproj", "{5FCB5C8F-57F5-4789-B6BB-5D96BCA5F202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D83AD91-0ABF-4092-9167-58A637B8D0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D83AD91-0ABF-4092-9167-58A637B8D0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D83AD91-0ABF-4092-9167-58A637B8D0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D83AD91-0ABF-4092-9167-58A637B8D0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCB5C8F-57F5-4789-B6BB-5D96BCA5F202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCB5C8F-57F5-4789-B6BB-5D96BCA5F202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCB5C8F-57F5-4789-B6BB-5D96BCA5F202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCB5C8F-57F5-4789-B6BB-5D96BCA5F202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9F5D8E8-3D97-424F-9921-D97F379D0B85}
+	EndGlobalSection
+EndGlobal

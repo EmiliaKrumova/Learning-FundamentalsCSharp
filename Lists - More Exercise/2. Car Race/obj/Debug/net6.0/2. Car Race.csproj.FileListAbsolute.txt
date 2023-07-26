@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\bin\Debug\net6.0\2. Car Race.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\bin\Debug\net6.0\2. Car Race.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\bin\Debug\net6.0\2. Car Race.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\bin\Debug\net6.0\2. Car Race.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\bin\Debug\net6.0\2. Car Race.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\2. Car Race.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\2. Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\2. Car Race.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\2. Car Race.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\2. Car Race.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\2. Car Race.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\refint\2. Car Race.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\2. Car Race.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\2. Car Race.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\Lists - More Exercise\2. Car Race\obj\Debug\net6.0\ref\2. Car Race.dll
