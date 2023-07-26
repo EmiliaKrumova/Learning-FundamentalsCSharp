@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-Project-Programming-Fundamentals\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\2. Pascal Triangle.csproj": {}
+    "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-FundamentalsCSharp\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\2. Pascal Triangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-Project-Programming-Fundamentals\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\2. Pascal Triangle.csproj": {
+    "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-FundamentalsCSharp\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\2. Pascal Triangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-Project-Programming-Fundamentals\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\2. Pascal Triangle.csproj",
+        "projectUniqueName": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-FundamentalsCSharp\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\2. Pascal Triangle.csproj",
         "projectName": "2. Pascal Triangle",
-        "projectPath": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-Project-Programming-Fundamentals\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\2. Pascal Triangle.csproj",
+        "projectPath": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-FundamentalsCSharp\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\2. Pascal Triangle.csproj",
         "packagesPath": "C:\\Users\\Em4eto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-Project-Programming-Fundamentals\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\obj\\",
+        "outputPath": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-FundamentalsCSharp\\1. Encrypt, Sort, and Print Array\\2. Pascal Triangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Em4eto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

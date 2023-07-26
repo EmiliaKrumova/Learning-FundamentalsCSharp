@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-Project-Programming-Fundamentals\\1. Encrypt, Sort, and Print Array\\4. Fold and Sum\\4. Fold and Sum.csproj",
+      "projectUniqueName": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-FundamentalsCSharp\\1. Encrypt, Sort, and Print Array\\4. Fold and Sum\\4. Fold and Sum.csproj",
       "projectName": "4. Fold and Sum",
-      "projectPath": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-Project-Programming-Fundamentals\\1. Encrypt, Sort, and Print Array\\4. Fold and Sum\\4. Fold and Sum.csproj",
+      "projectPath": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-FundamentalsCSharp\\1. Encrypt, Sort, and Print Array\\4. Fold and Sum\\4. Fold and Sum.csproj",
       "packagesPath": "C:\\Users\\Em4eto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-Project-Programming-Fundamentals\\1. Encrypt, Sort, and Print Array\\4. Fold and Sum\\obj\\",
+      "outputPath": "C:\\Users\\Em4eto\\Desktop\\GitHub\\Learning-FundamentalsCSharp\\1. Encrypt, Sort, and Print Array\\4. Fold and Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Em4eto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
