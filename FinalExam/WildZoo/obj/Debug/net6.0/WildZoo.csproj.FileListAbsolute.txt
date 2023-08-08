@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\bin\Debug\net6.0\WildZoo.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\bin\Debug\net6.0\WildZoo.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\bin\Debug\net6.0\WildZoo.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\bin\Debug\net6.0\WildZoo.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\bin\Debug\net6.0\WildZoo.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\WildZoo.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\WildZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\WildZoo.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\WildZoo.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\WildZoo.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\WildZoo.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\refint\WildZoo.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\WildZoo.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\WildZoo.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\WildZoo\obj\Debug\net6.0\ref\WildZoo.dll

@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\bin\Debug\net6.0\Hogwarts.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\bin\Debug\net6.0\Hogwarts.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\bin\Debug\net6.0\Hogwarts.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\bin\Debug\net6.0\Hogwarts.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\bin\Debug\net6.0\Hogwarts.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\Hogwarts.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\Hogwarts.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\Hogwarts.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\Hogwarts.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\Hogwarts.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\refint\Hogwarts.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\Hogwarts.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\Hogwarts.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Hogwarts\obj\Debug\net6.0\ref\Hogwarts.dll

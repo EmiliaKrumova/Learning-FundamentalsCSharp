@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\refint\MessageTranslator.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\MessageTranslator\obj\Debug\net6.0\ref\MessageTranslator.dll

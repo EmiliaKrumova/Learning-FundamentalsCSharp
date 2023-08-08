@@ -1,0 +1,15 @@
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\bin\Debug\net6.0\Messages Manager.exe
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\bin\Debug\net6.0\Messages Manager.deps.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\bin\Debug\net6.0\Messages Manager.runtimeconfig.json
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\bin\Debug\net6.0\Messages Manager.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\bin\Debug\net6.0\Messages Manager.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\Messages Manager.csproj.AssemblyReference.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\Messages Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\Messages Manager.AssemblyInfoInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\Messages Manager.AssemblyInfo.cs
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\Messages Manager.csproj.CoreCompileInputs.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\Messages Manager.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\refint\Messages Manager.dll
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\Messages Manager.pdb
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\Messages Manager.genruntimeconfig.cache
+C:\Users\Em4eto\Desktop\GitHub\Learning-FundamentalsCSharp\FinalExam\Messages Manager\obj\Debug\net6.0\ref\Messages Manager.dll

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildZoo", "WildZoo\WildZoo.csproj", "{8F101184-8AE0-4CDC-8351-4838FA9BF728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageTranslator", "MessageTranslator\MessageTranslator.csproj", "{4E32B0A4-6120-4FE9-8DBA-CAF8657E5BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts", "Hogwarts\Hogwarts.csproj", "{95E9EF19-4675-4E12-9FF9-319A6138EEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagesManager", "MessagesManager\MessagesManager.csproj", "{F0B54C4B-F141-49A5-BE0A-2CDEC823353A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages Manager", "Messages Manager\Messages Manager.csproj", "{450B6269-4B1B-42AE-8A94-F8EAA29EF7E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F101184-8AE0-4CDC-8351-4838FA9BF728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F101184-8AE0-4CDC-8351-4838FA9BF728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F101184-8AE0-4CDC-8351-4838FA9BF728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F101184-8AE0-4CDC-8351-4838FA9BF728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E32B0A4-6120-4FE9-8DBA-CAF8657E5BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E32B0A4-6120-4FE9-8DBA-CAF8657E5BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E32B0A4-6120-4FE9-8DBA-CAF8657E5BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E32B0A4-6120-4FE9-8DBA-CAF8657E5BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E9EF19-4675-4E12-9FF9-319A6138EEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E9EF19-4675-4E12-9FF9-319A6138EEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E9EF19-4675-4E12-9FF9-319A6138EEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E9EF19-4675-4E12-9FF9-319A6138EEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B54C4B-F141-49A5-BE0A-2CDEC823353A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B54C4B-F141-49A5-BE0A-2CDEC823353A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B54C4B-F141-49A5-BE0A-2CDEC823353A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B54C4B-F141-49A5-BE0A-2CDEC823353A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450B6269-4B1B-42AE-8A94-F8EAA29EF7E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450B6269-4B1B-42AE-8A94-F8EAA29EF7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450B6269-4B1B-42AE-8A94-F8EAA29EF7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450B6269-4B1B-42AE-8A94-F8EAA29EF7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2907CB2-7F4C-4E5C-90FB-98379F799586}
+	EndGlobalSection
+EndGlobal

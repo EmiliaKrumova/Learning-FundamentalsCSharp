@@ -44,11 +44,11 @@
             }//Console.WriteLine(rightTime);
             if (leftTime > rightTime)
             {
-                Console.WriteLine($"The winner is right with total time: {rightTime:f2}");
+                Console.WriteLine($"The winner is right with total time: {rightTime}");
             }
             else
             {
-                Console.WriteLine($"The winner is left with total time: {leftTime:f2}");
+                Console.WriteLine($"The winner is left with total time: {leftTime}");
             }
         }
     }
